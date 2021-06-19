@@ -1,6 +1,5 @@
 # 苦累蛙圓體 Kurewa Gothic
 
-<<<<<<< HEAD
 苦累蛙圓體是[紅道字體](https://github.com/davelab6/Zen-Project)(目前該github計畫已被關閉)的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字、增加為5個字重、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
 Kurewa gothic derived from ZenKurenaido.
@@ -11,11 +10,11 @@ Kurewa gothic derived from ZenKurenaido.
 
 解決常用的中文口語用詞缺字問題，Max補了一些中文字，應該可以滿足大部份的需求，例如：喵嗝屌粿璀摳摀憨尪孬憋。
 
-* 附註1：由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。
+* 附註1：由於是非專業級的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同或較醜。
 * 附註2：原作者的部件是使用日本寫法，補的字目前是使用台標體，混搭起來有時候會怪怪的，聊勝於無。
 
 ### 特色2：5種字重(Style)
-![5種字重](https://github.com/max32002/nanifont/raw/master/preview/compare_styles.png)
+![5種字重](https://github.com/max32002/kurewa-gothic/raw/master/preview/compare_styles.png)
 
 * Light
 * DemiLight
@@ -75,6 +74,19 @@ WebFont可以服用下面的css:
     * 可自由改作為其他字型 將字型檔案修改重製為其他字型檔案，改作後的字型檔案須同樣依 Open Font License 釋出。
 
 字體授權小提示：本字型採用 SIL Open Font License 1.1 授權發表，可以免費商用。在 github 上有附上 SIL Open Font License 1.1 的授權文件，如甲方或公司需要出示授權文件，直接使用此文件即可。
+
+## 致謝 Acknowledgements
+
+沒有下列的這些優秀的網友分享，不會有這一個字型可以與大家分享，特別感謝下列的專案。
+* [pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow) by [yenchenlin](https://github.com/yenchenlin)
+* [Domain Transfer Network](https://github.com/yunjey/domain-transfer-network) by [yunjey](https://github.com/yunjey)
+* [ac-gan](https://github.com/buriburisuri/ac-gan) by [buriburisuri](https://github.com/buriburisuri)
+* [dc-gan](https://github.com/carpedm20/DCGAN-tensorflow) by [carpedm20](https://github.com/carpedm20)
+* [origianl pix2pix torch code](https://github.com/phillipi/pix2pix) by [phillipi](https://github.com/phillipi)
+* [zi2zi](https://github.com/kaonashi-tyc/zi2zi) by [kaonashi-tyc](https://github.com/kaonashi-tyc)
+* [zi2zi-pytorch](https://github.com/xuan-li/zi2zi-pytorch) by [xuan-li](https://github.com/xuan-li)
+* [zi2zi-pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) by [EuphoriaYan](https://github.com/EuphoriaYan)
+* [Font2Font](https://github.com/jasonlo0509/Font2Font) by [jasonlo0509](https://github.com/jasonlo0509)
 
     
 ## 相關網頁
@@ -206,6 +218,8 @@ https://max-everyday.com/2020/06/swei-meatball/
 https://max-everyday.com/2020/04/swei-spring/
 
 其他字體：
+* 苦累蛙圓體 Kurewa Gothic
+https://max-everyday.com/2021/06/kurewa-gothic/
 * 何某手寫體 Nani Font
 https://max-everyday.com/2020/09/nanifont/
 * 內海字體  Naikai Font
@@ -229,3 +243,4 @@ https://codereview.max-everyday.com/font-readme/
 
 很高興可以替中華民國美學盡一分心力、讓台灣擁有更好的文字風景，希望能提供另一種美學讓大家選擇，如果你覺得這篇文章寫的很好，想打賞Max，贊助方式如下：
 https://max-everyday.com/about/#donate
+
