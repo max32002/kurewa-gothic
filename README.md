@@ -54,8 +54,8 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: kurewa-gothic;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.010/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.010/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.020/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.020/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff) format("woff");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
@@ -88,6 +88,11 @@ WebFont可以服用下面的css:
 * [zi2zi-pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) by [EuphoriaYan](https://github.com/EuphoriaYan)
 * [Font2Font](https://github.com/jasonlo0509/Font2Font) by [jasonlo0509](https://github.com/jasonlo0509)
 
+## 備註
+
+苦累蛙圓體補字：銲鋇鋌鋯鋰錑錸鍘鍺鎘鎩鑊鑫閎靚韙餚饈驊驒髕髖（無音效）
+
+https://youtu.be/_txAcMlfpJs
     
 ## 相關網頁
 
