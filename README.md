@@ -34,7 +34,12 @@ Kurewa gothic derived from ZenKurenaido.
 
 原作者的全形標點符號針對日本做設計，調整為台灣常見的置中用法。
 
-### 特色4：調整部件寫法
+### 特色4：增加臺灣閩南和客語的部份中文字
+
+* 中文字如下：
+𠊎𠎷𠕆𠕇𠖄𠗻𠜱𠞩𠞭𠠃𠠝𠢕𠯗𠲿𡢃𡳞𢎙𢪱𢫦𢯭𢯾𢱤𢲴𢲸𢳆𢳪𢶀𢼌𢼛𣁳𣛮𣮈𣲩𣻸𣼎𤆬𤉙𤊶𤌍𤍒𤐙𤐰𤘅𤞚𤲍𤶃𤸁𤸱𤺅𤺪𥉌𥌚𥍉𥐵𥑮𥯟𥯥𥰔𥴊𥺆𦉎𦊓𦜆𦟪𧉟𧊅𧌄𧩣𧮙𧻴𧿬𧿳𨂾𨂿𨃰𨅔𨑨𨒇𨢑𩑾𩚨𩛩𩜄𩜰𩵱𩸙𩸶𩼧𪁎𪐞𪖐𪘒𪜶𪹚𫝏𫝘𫝛𫝺𫝻𫞼𫟂𫟧𫠛𫣆𬠖𬦰𰣻𰹬
+
+### 特色5：調整部件寫法
 
 * 目前還沒調整，也許未來有空的話，會試看看。
 
@@ -54,8 +59,8 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: kurewa-gothic;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.020/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.020/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.030/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.030/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff) format("woff");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
