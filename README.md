@@ -41,8 +41,12 @@ Kurewa gothic derived from ZenKurenaido.
 
 ### 特色5：調整部件寫法
 
-* 目前還沒調整，也許未來有空的話，會試看看。
+字體後面的 SC,JP,TC是什意思？
 
+* TC是 Traditional Chinese 繁体中文，代表港台習慣的字形。
+* JP是 Japanese 日文，代表日本習慣字形。
+
+相同一個字，在不地區的書寫方式可能會略有不同，原作者的字都放 CJK JP的檔案裡。
 
 ## 更新日誌
 [點擊此處](https://github.com/max32002/kurewa-gothic/blob/master/change_log.md) 查看更新記錄。
