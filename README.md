@@ -41,7 +41,7 @@ Kurewa gothic derived from ZenKurenaido.
 
 ### 特色5：調整部件寫法
 
-* CJK TC的版本，修改原作者的字：偖冒善嗹器墸奝奢惆慥撻晧暹梏楮槌横橫潛瀇燧燵獷璉睹礦窖篷簓簧綢縋縺纊膸虧蜩覩譖譴豁豬赭辷迚迢迥迯迴迸迹迺逅逋逍逎逑逕逖逞逡逧逵逶逹遉遏遐遑遖遘遙遞遧遨遯遲遶遽邀邁邂邃邇邊邏鎹鏈鑛闍闥隧隨雕韃韆髓鵰黄黌
+* CJK TC的版本，修改原作者的字：偖冒善嗹器墸奝奢惆慥撻晧暹梏楮槌横橫潛瀇燧燵獷璉睹礦窖篷簓簧綢縋縺纊膸虧蜩覩譖譴豁豬赭辷迚迢迥迯迴迸迹迺逅逋逍逎逑逕逖逞逡逧逵逶逹遉遏遐遑遖遘遙遞遧遨遯遲遶遽邀邁邂邃邇邊邏鎹鏈鑛闍闥隧隨雕韃韆髓鵰黄黌亂侮倩值傔僅僧僭儚具冐刹勇勤勸包匿博唐唳喞嗔嘆噌嚼囎埴塘填增墨墫夢奠寘寧寨寬層崢帽惹慊慌慎憎懐懸懽戸房所扁扇扈扉捨捩捲揄搨撝撮撰擢擲敏敬敷旅昧晦曠曾最某染柔案梅棈植業榛榮榻槊槙樂樶檠櫟欒歡殖殺泡派海淚渝渣港湧滕滬漑漢潔濂瀞灌灘煤煽燥爍爭牘犢猜獲獵瑁瑜瑶甍甑瘉直真睛瞋瞎矗砲礫示票祭禀禁稙稠稱稻穫窗箏箞篇簿籐籘綏綟綣綮綵編縊縛縢縣縵總繒繕繭繰續纛罇罐置翩聰肇肩胞脈膳臘臻舊舮艀蔑薨蜉蜷蜻蝓蝙蝶蠖褊襪覦親覿觀誤誥諍諞謀謚謹謾譟警護讀讙谿豢賺贈贖起踰蹈蹊蹲躁躇躑辭逾遒遥遷選郛鈩錚鍮鍰鎮鎰鑅鑞鑵隘隱雇靕靜鞄韈韜響顛顧顴飩飫飭餃餉餒餔餘餝餞餠餡餤餧餬餽餾饂饅饉饋饌饐饑饒騙驚驩髞鰀鰌鷁鷄鷏鸛黛黷
 
 字體後面的 JP,TC是什意思？
 
@@ -65,8 +65,8 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: kurewa-gothic;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.040/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.040/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.050/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.050/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff) format("woff");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
@@ -104,6 +104,10 @@ WebFont可以服用下面的css:
 苦累蛙圓體補字：銲鋇鋌鋯鋰錑錸鍘鍺鎘鎩鑊鑫閎靚韙餚饈驊驒髕髖（無音效）
 
 https://youtu.be/_txAcMlfpJs
+
+苦累蛙圓體更新字：票祭禀禁稱稻箏箞籐籘綏綟綣綮綵編縢縵繒繰續罇翩肇肩胞臘臻舮艀蜉蜷蜻蝓蝙蝶褊覦親（無音效）
+
+https://youtu.be/hMTStDLnWgM
     
 ## 相關網頁
 
