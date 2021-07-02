@@ -65,8 +65,8 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: kurewa-gothic;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.052/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.052/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.053/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.053/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff) format("woff");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
@@ -108,6 +108,11 @@ https://youtu.be/_txAcMlfpJs
 苦累蛙圓體更新字：票祭禀禁稱稻箏箞籐籘綏綟綣綮綵編縢縵繒繰續罇翩肇肩胞臘臻舮艀蜉蜷蜻蝓蝙蝶褊覦親（無音效）
 
 https://youtu.be/hMTStDLnWgM
+
+苦累蛙圓體修正錯字示範
+
+https://youtu.be/26ENvQD50cA
+
     
 ## 相關網頁
 
