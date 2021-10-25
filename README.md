@@ -1,6 +1,6 @@
 # 苦累蛙圓體 Kurewa Gothic
 
-苦累蛙圓體是[紅道字體](https://github.com/davelab6/Zen-Project)(目前該github計畫已被關閉)的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字、增加為5個字重、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
+苦累蛙圓體是[紅道字體](https://github.com/googlefonts/zen-kurenaido)的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字、增加為5個字重、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
 Kurewa gothic derived from ZenKurenaido.
 
@@ -12,6 +12,7 @@ Kurewa gothic derived from ZenKurenaido.
 
 * 附註1：由於是非專業級的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同或較醜。
 * 附註2：原作者的部件是使用日本寫法，補的字目前是使用台標體，混搭起來有時候會怪怪的，聊勝於無。
+* 附註3：由於是第一次使用貝茲曲線，所以很多字長的怪怪的，目前技術已經有提升，如果未來有空，再重做筆畫歪歪扭扭的那些字。如果遇到太醜的字，歡迎留言，我會優先重做這些字。
 
 ### 特色2：5種字重(Style)
 ![5種字重](https://github.com/max32002/kurewa-gothic/raw/master/preview/compare_styles.png)
