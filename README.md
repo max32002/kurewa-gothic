@@ -21,14 +21,14 @@ Kurewa gothic derived from ZenKurenaido.
 * Light
 * DemiLight
 * Regular (原作者的字重)
-* Medium
 * SemiBold
+* Bold
 
-原作者的字重放在Regular字重裡，透過程式自動產生Light、DemiLight、Medium、SemiBold 新的字重。
+原作者的字重放在Regular字重裡，透過程式自動產生Light、DemiLight、SemiBold、Bold 新的字重。
 
-在ExtraLight和Light字重是把原本的Otsutome Font微微調細一點點。在Light的字重裡，可能會因為筆劃太細造成某些筆畫消失。
+在ExtraLight和Light字重是把原作者Regular字重微微調細一點點。在Light的字重裡，可能會因為筆劃太細造成某些筆畫消失。
 
-在Medium和SemiBold的字重裡，可能會因為筆劃太粗造成某些筆畫重疊難以識別，有粗體字的需求，可以先挑戰使用SemiBold字重看看，如果發現效果不如預期，再改用Medium字重。
+在SemiBold與Bold的字重裡，可能會因為筆劃太粗造成某些筆畫重疊難以識別，有粗體字的需求，可以先挑戰使用Bold字重看看，如果發現效果不如預期，再改用SemiBold字重。
 
 不能確定自動產生出來的字重裡每一個都是完整的字，畢盡程式會誤判是常有的事情，所以「不是在Regular字重」裡的筆劃可能會消失。
 
