@@ -69,7 +69,7 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: kurewa-gothic;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.068/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/kurewa-gothic@1.071/webfont/CJK%20TC/KurewaGothicCjkTc-Regular.woff2) format("woff2");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
